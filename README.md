@@ -1,6 +1,6 @@
 <div id="inicio"></div>
 
-## 📱 Políticas de Privacidade
+## ✍👨‍✈️ Políticas de Privacidade
 
 > Repositório para Política de Privacidade dos projetos.
 
